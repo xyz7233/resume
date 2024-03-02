@@ -1,0 +1,366 @@
+#main{
+    border: 2px ;
+
+}
+.header{
+    border: 2px ;
+    width: 80%;
+    margin: 2px;
+    border-radius: 50px;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    z-index: 1;
+    position: absolute;
+    background-color: rgb(34, 29, 29);
+    box-shadow: 20px 20px 20px ;
+}
+/*#table1{
+    border: 2px ;
+    margin: 5px;
+    width: 50%;
+    margin-left: auto;
+    
+}
+.td0{
+    border: 2px ;
+    margin-left: auto;
+    color: aliceblue;
+    cursor: pointer;
+    margin-left: 20px;
+    width: 20px;
+    text-align: center;
+}
+.part1{
+    border: 2px ;
+    width: 50%;
+    height: 900px;
+    background-color: rgb(55, 151, 151);
+    z-index: 0;
+    position: fixed;
+    margin-top: 500px;
+}
+#img1{
+    width: 100%;
+    filter: grayscale();
+}
+.part2{
+    border: 2px ;
+    width: 50%;
+    height: 9000px;
+    float: right;
+    background-color: rgb(34, 29, 29);
+    margin-top: -904px;
+    z-index: 1;
+}
+#p1{
+    color: aliceblue;
+    border: 2px ;
+    margin-top: 90%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: 20px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.part3{
+    border: 2px ;
+    margin: 5px;
+    width: 150px ;
+    height: 150px;
+    border-radius: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(to left,aqua,rgb(34, 29, 29));
+    margin-top: -40%;
+    z-index: 2;
+    transform: rotate(1deg);
+    text-align: center;
+    
+}
+#h1{
+    color: aliceblue;
+    text-shadow: 2px 5px 2px black;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 30px;
+}*/ 
+#header1{
+    border: 2px ;
+    width: 80%;
+    margin: 2px;
+    border-radius: 50px;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    z-index: 1;
+    position: fixed;
+    background-color: rgb(34, 29, 29);
+    box-shadow: 20px 20px 20px ;
+    padding: 20px;
+}
+.header1-1{
+    border: 2px ;
+    width: 50%; 
+    margin-left: auto;
+}
+#table1{
+    border: 2px ;
+    width: 100%;
+}
+.td0{
+    border: 2px ;
+    color: aliceblue;
+    font-size: larger;
+    text-align: center;
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+/*------------------------------------------------------------------------------------*/
+#main{
+    min-width: 1000px;
+}
+.layer1{
+    border: 2px solid;
+    width: 50%;
+}
+#img1{
+    width: 50%;
+    position: fixed;
+    margin-top:-10px;
+    height: 100%;
+    margin-left: -130px;
+    filter: grayscale();
+}
+.layer2{
+    margin-top: -10px;
+    width: 60%;
+    border: 2px solid;
+    height: 2300px;
+    background-color: rgb(39, 35, 35);
+    margin-left: auto;
+
+}
+.part1{
+    color: aliceblue;
+    border: 2px ;
+    width: 80%;
+    margin-left: 20px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.circle{
+    border: 2px ;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-left: -100px;
+    margin-top: 200px;
+    background-color: rgb(39, 35, 35);
+    color: aliceblue;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    position: relative;
+}
+#h1{
+    padding: 30%;
+    align-items: center;
+}
+#button1{
+    border-radius: 50px;
+    border: 2px solid;
+    width: 150px;
+    height: 70px;
+    font-size: larger;
+    color: aliceblue;
+    background-color:  rgb(39, 35, 35);
+    margin-left: 20px;
+    cursor: pointer;
+}
+/*----------------------------------------------------------------------------------*/
+#h1-2{
+    color: aliceblue;
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.table2{
+    color: aliceblue;
+    border: 2px ;
+    text-align: center;
+    margin: 20px;
+    width: 100%;
+}
+.td2{
+    border: 2px solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*-----------------------------------------------------------------------------------------*/
+#html{
+    border: 2px solid red;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    padding: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 2px 1px 10px red ;
+    margin-top: 30px;
+    margin: 20px;
+}
+#css{
+    border: 2px solid blue;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    padding: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 2px 1px 10px blue;
+    margin: 20px;
+}
+#python{
+    border: 2px solid green;
+    color: aliceblue;
+    width: 150px;
+    height: 50px;
+    padding: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 2px 1px 10px green;
+    margin: 20px;
+}
+#bash{
+    border: 2px solid brown;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    padding: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 2px 1px 10px brown;
+    margin: 20px;
+}
+/*--------------------------------------------------------------------------------------*/
+#e-mail{
+    border: 2px ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 50px;
+}
+#e-mail1{
+    border: 2px solid;
+    width: 30%;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    float: right;
+}
+#e-mail:hover{
+ /*   background-color: aliceblue;
+    color:  black;
+    margin-top: -10px;
+    padding: 30px;
+    border-radius: 100px;
+    box-shadow: 2px 2px 10px white;
+    border: 0px;*/
+}
+#e-mail:hover #message{
+    visibility: visible;
+}
+#e-mail:hover{
+    visibility: hidden;
+}
+#span1{
+    color: aliceblue;
+    border: 2px solid;
+    font-size: larger;
+    padding: 20px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+#message{
+    visibility: hidden;
+  /*  border: 0px ;
+    text-align: center;
+    color: black;
+    background-color: aliceblue;
+    padding: 20px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;*/
+    border: 2px solid;
+    width: auto;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    margin-top: -100px;
+    border-radius: 50px;
+    cursor: pointer;
+    float: right;
+}
+#span2{
+    /*color: rgb(39, 35, 35);*/
+    color: white;
+    float: right;
+    margin-top: -50px;
+    margin-left: auto
+
+}
+#e-mail2{
+    border: 2px solid;
+    width: 35%;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    float: left;
+    margin-right: 20px;
+}
+#img3{
+    color: rgb(248, 243, 243);
+    float: right;
+    margin-left: auto;
+    width: 50px;
+    filter: brightness(50);
+    border: 2px solid;
+    border-radius: 100px;
+    padding: 2px;
+}
+/*------------------------------------------------------------------------------------------------------------*/
+@media(max-width : 375px) and (orientation:portrait){
+    #img1{
+        width: 100%;
+        height: auto;
+    }
+}

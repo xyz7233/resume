@@ -1,0 +1,306 @@
+@media (min-width:774px){
+#main{
+    border: 2px ;
+
+}
+.header{
+    border: 2px ;
+    width: 80%;
+    margin: 2px;
+    border-radius: 50px;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    z-index: 1;
+    position: absolute;
+    background-color: rgb(34, 29, 29);
+    box-shadow: 20px 20px 20px ;
+} 
+#header1{
+    border: 2px ;
+    width: 80%;
+    margin: 2px;
+    border-radius: 50px;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    z-index: 1;
+    position: fixed;
+    background-color: rgb(34, 29, 29);
+    box-shadow: 20px 20px 20px ;
+    padding: 20px;
+}
+.header1-1{
+    border: 2px ;
+    width: 50%; 
+    margin-left: auto;
+}
+#table1{
+    border: 2px ;
+    width: 100%;
+}
+.td0{
+    border: 2px ;
+    color: aliceblue;
+    font-size: larger;
+    text-align: center;
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+/*------------------------------------------------------------------------------------*/
+#main{
+    min-width: 1000px;
+}
+.layer1{
+    border: 2px solid;
+    width: 50%;
+    
+}
+#img1{
+    width: 40%;
+    position: fixed;
+    margin-top: -10px;
+    height: 100%;
+    margin-left: -100px;
+    filter: grayscale();
+    min-width: 500px;
+    min-height: 600px;
+    max-height: 1000px;
+    z-index: 0 ;
+    overflow: hidden;
+}
+.layer2{
+    margin-top: -10px;
+    width: 70%;
+    border: 2px solid;
+    height: 100%;
+    background-color: rgb(39, 35, 35);
+    margin-left: auto;
+    position: relative;
+    min-width: 500px;
+    margin-bottom: -200px;
+    
+}
+.part1{
+    color: aliceblue;
+    border: 2px ;
+    width: 80%;
+    margin-left: 20px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.circle{
+    border: 2px ;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-left: -100px;
+    margin-top: 200px;
+    background-color: rgb(39, 35, 35);
+    color: aliceblue;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    position: relative;
+}
+#h1{
+    padding: 30%;
+    align-items: center;
+}
+#button1{
+    border-radius: 50px;
+    border: 2px solid;
+    width: 150px;
+    height: 70px;
+    font-size: larger;
+    color: aliceblue;
+    background-color:  rgb(39, 35, 35);
+    margin-left: 20px;
+    cursor: pointer;
+}
+/*----------------------------------------------------------------------------------*/
+.contact{
+    height: 500px;
+}
+#h1-2{
+    color: aliceblue;
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.table2{
+    color: aliceblue;
+    border: 2px ;
+    text-align: center;
+    margin: 20px;
+    width: 100%;
+}
+.td2{
+    border: 2px solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*-----------------------------------------------------------------------------------------*/
+#html{
+    border: 2px solid red;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    padding: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 2px 1px 10px red ;
+    margin-top: 30px;
+    margin: 20px;
+}
+#css{
+    border: 2px solid blue;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    padding: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 2px 1px 10px blue;
+    margin: 20px;
+}
+#python{
+    border: 2px solid green;
+    color: aliceblue;
+    width: 150px;
+    height: 50px;
+    padding: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 2px 1px 10px green;
+    margin: 20px;
+}
+#bash{
+    border: 2px solid brown;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    padding: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 2px 1px 10px brown;
+    margin: 20px;
+}
+/*--------------------------------------------------------------------------------------*/
+/* #email-0{
+   border: 2px solid;
+    width: 400px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    padding: 20px;*/
+}
+#e-mail{
+    border: 2px ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 50px;
+}
+#e-mail1{
+    border: 2px solid;
+    width: 30%;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    float: right;
+}
+#e-mail:hover{
+}
+#e-mail:hover #message{
+    visibility: visible;
+}
+#e-mail:hover{
+    visibility: hidden;
+}
+#span1{
+    color: aliceblue;
+    border: 2px solid;
+    font-size: larger;
+    padding: 20px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+#message{
+    visibility: hidden;
+    border: 2px solid;
+    width: auto;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    margin-top: -100px;
+    border-radius: 50px;
+    cursor: pointer;
+    float: right;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+#span2{
+    /*color: rgb(39, 35, 35);*/
+    color: white;
+    float: right;
+    margin-top: -50px;
+    margin-left: auto
+
+}
+#e-mail2{
+    border: 2px solid;
+    width: 35%;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 20px 40px 20px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    float: left;
+    margin-right: 20px;
+}
+#img3{
+    color: rgb(248, 243, 243);
+    float: right;
+    margin-left: auto;
+    width: 50px;
+    filter: brightness(50);
+    border: 2px solid;
+    border-radius: 100px;
+    padding: 2px;
+}
+.email-9{
+    margin-bottom: 20px;
+}
+
+/*------------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------*/
+
